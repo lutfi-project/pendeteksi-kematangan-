@@ -1,2 +1,0 @@
-# pendeteksi-kematangan-
-kematangan buah
