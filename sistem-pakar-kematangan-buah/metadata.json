@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pakar Kematangan Buah",
+  "description": "Aplikasi analisis kematangan buah berbasis citra visual untuk menilai kematangan dan mengelola lembar kerja praktikum mahasiswa dengan perhitungan akurasi real-time.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
